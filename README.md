@@ -21,7 +21,7 @@ For each test case, print a single line containing one integer ― the smallest 
 - 1≤Wi≤N for each valid i
 - 1≤Li≤5 for each valid i
 - no two frogs have the same weight
-**Subtasks**
+**Subtasks**  
 Subtask #1 :
 T=50  
 N=2  
